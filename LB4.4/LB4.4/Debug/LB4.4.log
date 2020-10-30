@@ -1,0 +1,6 @@
+﻿  LB4.4.cpp
+D:\Project\Lb4\LB4.4\LB4.4\LB4.4.cpp(28,33): warning C4804: '<=': unsafe use of type 'bool' in operation
+D:\Project\Lb4\LB4.4\LB4.4\LB4.4.cpp(31,32): warning C4804: '<=': unsafe use of type 'bool' in operation
+D:\Project\Lb4\LB4.4\LB4.4\LB4.4.cpp(34,31): warning C4390: ';': empty controlled statement found; is this the intent?
+D:\Project\Lb4\LB4.4\LB4.4\LB4.4.cpp(9,31): warning C4101: 'F': unreferenced local variable
+  LB4.4.vcxproj -> D:\Project\Lb4\LB4.4\Debug\LB4.4.exe
